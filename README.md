@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @chicoumbetov Software Engineer in France.
+  <!---
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning WEB3
 - 💞️ I’m looking to collaborate on ...
+--->
+- 🌱 I’m currently learning WEB3
+
 - 📫 Portfolio is deployed here : https://chicoumbetov.github.io/portfolio-cv-umbetov/
 
 <!---
