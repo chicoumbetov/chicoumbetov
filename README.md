@@ -19,6 +19,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
