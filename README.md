@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 --->
 
-- 🌱 I’m currently learning WEB3
+- 🌱 I’m currently learning AI
 
 - 📫 Portfolio is deployed here : https://chicoumbetov.github.io/portfolio-cv-umbetov/
 
