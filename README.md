@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @chicoumbetov Software Engineer in France.
+- 👋 Hi, I’m @chicoumbetov 5+ years of experience Développeur React JS & Native 💻📱 Développement Web et applications mobiles (iOs & Android) 👨🏼‍💻💻📱 in France,
+Développeur Full Stack Backend Node JS, C#, .NET, Python
 
 <!---
 - 👀 I’m interested in ...
