@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning AI
 
-- 📫 Portfolio is deployed here : https://chicoumbetov.github.io/portfolio-cv-umbetov/
+- 📫 Portfolio is deployed here : https://chicoumbetov.github.io/cv-portfolio-umbetov/
+Linkedin: https://www.linkedin.com/in/umbetov-sh/
 
 <!---
 chicoumbetov/chicoumbetov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
